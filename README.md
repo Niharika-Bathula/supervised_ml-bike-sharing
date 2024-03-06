@@ -34,6 +34,9 @@ Deployment and Monitoring:
 
 Once a satisfactory model is developed, it can be deployed in a production environment. Continuous monitoring is essential to ensure that the model's predictions remain accurate over time, as the real-world data distribution may change.
 
+![image](https://github.com/Niharika-Bathula/supervised_ml-bike-sharing/assets/142409759/f39327f3-76d9-48a0-b592-091ac89a9fa4)
+
+
 Conclusion
 In this project, we conducted an in-depth analysis of bike-sharing demand prediction, utilizing supervised machine learning techniques, and explored the crucial factors affecting bike rentals. Our objective was to provide actionable insights to optimize business operations, pricing strategies, and user experience. Through the examination of various features and the development of a predictive model, we have gained valuable insights into the dynamics of bike sharing.
 
