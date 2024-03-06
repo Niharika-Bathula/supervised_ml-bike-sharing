@@ -1,4 +1,4 @@
-Seoul Bike Prediction: 
+
 ![image](https://github.com/Niharika-Bathula/supervised_ml-bike-sharing/assets/142409759/07142854-579e-4b76-9d2f-08de2e62f119)
 
 
